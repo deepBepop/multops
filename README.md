@@ -4,7 +4,7 @@
   
   (i) The Multops Data Structure itself
   
-  (ii) a class MultopsTree representing a node of the Multops tree as described in the research paper proposed at USENIX 2001
+  (ii) A class MultopsTree representing a node of the Multops tree as described in the research paper proposed at USENIX 2001
 
   In the real world when Multops is implemented, it will be called by the router when handling a packet, but here we will simulate it in python and test it using madeup values.
   
